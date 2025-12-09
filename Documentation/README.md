@@ -11,6 +11,12 @@ The project also uses a NeoPixel for visual feedback, a piezo buzzer for sound e
 
 ---
 
+## Enclosure Design 
+
+The enclosure design is a MDF Board cut into a rectangle. On the top face four holes, one for the OLED screen, one for the Rotary Encoder, one for the NeoPixel LED, and a final slot for the off and on switch. 
+Inside, room for the perfboard and a hole for the USB-C to be accessible. 
+
+
 ## Features
 
 - 🐍 **Snake-style gameplay** on a text grid
@@ -271,7 +277,3 @@ Running CircuitPython on the XIAO ESP32-C3 means **limited RAM** and tight low-l
 
 ---
 
-## License
-
-This is a hobby project for educational and personal use.  
-Feel free to modify, extend, and adapt it for your own hardware setups.
